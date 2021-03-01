@@ -26,7 +26,7 @@ const Club = () => {
         <div className="row">
             <div className="col-md-9 pr-0">
             <div className="titleWraper">
-                <h3 className="playerTitle">Bangladeshi Players</h3>
+                <h3 className="countryTitle">Bangladeshi Players</h3>
             </div>
             <div className="card-group">
             {

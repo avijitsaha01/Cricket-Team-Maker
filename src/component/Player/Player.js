@@ -4,12 +4,12 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faUserPlus } from '@fortawesome/free-solid-svg-icons'
 
 const Player = (props) => {
-    
+
     //destructuring used here
     const {name,nick_name,player_rule,img,batting_style,bowling_style,slary} = props.player;
 
     return (
-        <div className="col-md-4 mb-5">
+        <div className="col-md-4 mb-4">
             <div className="card shadow mb-5 bg-white rounded">
                 <img src={img} className="card-img-top" alt="" />
                 <div className="card-body">
