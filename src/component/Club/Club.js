@@ -3,6 +3,7 @@ import '../../../node_modules/bootstrap/dist/css/bootstrap.min.css'
 import Player from '../Player/Player';
 import playersData from '../../data.json';
 import Team from '../Team/Team';
+import './Club.css'
 
 const Club = () => {
     //using state
@@ -24,6 +25,9 @@ const Club = () => {
     return (
         <div className="row">
             <div className="col-md-9 pr-0">
+            <div className="titleWraper">
+                <h3 className="playerTitle">Bangladeshi Players</h3>
+            </div>
             <div className="card-group">
             {
                     players.map(player => 

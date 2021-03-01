@@ -1,0 +1,12 @@
+.titleWraper{
+    margin: 0 auto;
+    width: 300px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.playerTitle{
+    background-color: orange;
+    color: white;
+    font-weight: 600;
+    padding: 10px 20px;
+}
