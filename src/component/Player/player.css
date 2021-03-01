@@ -1,0 +1,13 @@
+.card{
+    height: 600px;
+    text-align: center;
+    border: none;
+}
+.card img{
+    width: 200px;
+    padding: 20px;
+    margin: 0 auto;
+}
+.card button{
+    text-align: center;
+}

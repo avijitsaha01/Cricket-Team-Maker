@@ -1,0 +1,294 @@
+[
+  {
+    "id": 1,
+    "name": "Abu Hider Rony",
+    "nick_name": "Rony",
+    "player_rule": "Bowler",
+    "img": "https://p.imgci.com/db/PICTURES/CMS/303200/303229.jpg",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Left-arm",
+    "slary": 25000
+    },
+	{
+    "id": 2,
+    "name": "Afif Hossain Dhrubo",
+    "nick_name": "Dhrubo",
+    "player_rule": "Allrounder",
+    "img": "https://p.imgci.com/db/PICTURES/CMS/306000/306068.1.jpg",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "slary": 35000
+    },
+	{
+    "id": 3,
+    "name": "Ariful Haque",
+    "nick_name": "Ariful ",
+    "player_rule": "Allrounder",
+    "img": "https://p.imgci.com/db/PICTURES/CMS/302900/302979.jpg",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium-fast",
+    "slary": 26000
+    },
+	{
+    "id": 4,
+    "name": "Liton Kumar Das",
+    "nick_name": "Liton",
+    "player_rule": "Wicketkeeper batsman",
+    "img": "https://p.imgci.com/db/PICTURES/CMS/302900/302995.jpg",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "",
+    "slary": 28000
+    },
+	{
+    "id": 5,
+    "name": "Mehidy Hasan Miraz",
+    "nick_name": "Miraz",
+    "player_rule": "Allrounder",
+    "img": "https://p.imgci.com/db/PICTURES/CMS/303000/303000.jpg",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "slary": 29000
+    },
+	{
+    "id": 6,
+    "name": "Mohammad Saifuddin",
+    "nick_name": "Saifuddin",
+    "player_rule": "Bowling allrounder",
+    "img": "http://p.imgci.com/db/PICTURES/CMS/303200/303236.jpg",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm medium-fast",
+    "slary": 29000
+    },
+	{
+    "id": 7,
+    "name": "Mustafizur Rahman",
+    "nick_name": "Mustafizur",
+    "player_rule": "Bowler",
+    "img": "https://p.imgci.com/db/PICTURES/CMS/263500/263578.jpg",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Left-arm fast-medium",
+    "slary": 26000
+    },
+	{
+    "id": 8,
+    "name": "Mohammad Rubel Hossain",
+    "nick_name": "Rubel",
+    "player_rule": "Bowler",
+    "img": "https://p.imgci.com/db/PICTURES/CMS/263500/263594.jpg",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast",
+    "slary": 28000
+    },
+	{
+    "id": 9,
+    "name": "Shakib Al Hasan",
+    "nick_name": "Saqibul Hasan",
+    "player_rule": "Allrounder",
+    "img": "https://p.imgci.com/db/PICTURES/CMS/303100/303157.jpg",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Slow left-arm orthodox",
+    "slary": 40000
+    },
+	{
+    "id": 10,
+    "name": "Tamim Iqbal Khan",
+    "nick_name": "Tamim",
+    "player_rule": "Opening batsman",
+    "img": "https://p.imgci.com/db/PICTURES/CMS/303100/303166.jpg",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "",
+    "slary": 36000
+    },
+	{
+    "id": 11,
+    "name": "Abu Jayed Chowdhury",
+    "nick_name": "Jayed",
+    "player_rule": "Bowler",
+    "img": "https://p.imgci.com/db/PICTURES/CMS/302900/302961.jpg",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast-medium",
+    "slary": 26000
+    },
+	{
+    "id": 12,
+    "name": "Al-Amin Hossain",
+    "nick_name": "Al-Amin",
+    "player_rule": "Bowler",
+    "img": "https://p.imgci.com/db/PICTURES/CMS/302900/302973.jpg",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium-fast",
+    "slary": 25000
+    },
+	{
+    "id": 13,
+    "name": "Hasan Mahmud",
+    "nick_name": "Bret",
+    "player_rule": "Bowler",
+    "img": "https://p.imgci.com/db/PICTURES/CMS/303200/303249.jpg",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "slary": 28000
+    },
+	{
+    "id": 14,
+    "name": "Mahedi Hasan",
+    "nick_name": "Mahedi",
+    "player_rule": "Top-order batsman",
+    "img": "https://p.imgci.com/db/PICTURES/CMS/286600/286686.1.jpg",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "slary": 26000
+    },
+	{
+    "id": 15,
+    "name": "Mohammad Mithun",
+    "nick_name": "Mithun",
+    "player_rule": "Top-order batsman",
+    "img": "https://p.imgci.com/db/PICTURES/CMS/303100/303144.jpg",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "",
+    "slary": 33000
+    },
+	{
+    "id": 16,
+    "name": "Mosaddek Hossain Saikat",
+    "nick_name": "Saikat",
+    "player_rule": "Middle-order batsman",
+    "img": "https://p.imgci.com/db/PICTURES/CMS/303100/303147.jpg",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "slary": 36000
+    },
+	{
+    "id": 17,
+    "name": "Najmul Hossain Shanto",
+    "nick_name": "Shanto",
+    "player_rule": "Middle-order batsman",
+    "img": "https://p.imgci.com/db/PICTURES/CMS/303200/303241.jpg",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "slary": 32000
+    },
+	{
+    "id": 18,
+    "name": "Mohammad Sabbir Rahman",
+    "nick_name": "Rumon",
+    "player_rule": "Middle-order batsman",
+    "img": "https://p.imgci.com/db/PICTURES/CMS/303200/303247.jpg",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Legbreak",
+    "slary": 30000
+    },
+	{
+    "id": 19,
+    "name": "Soumya Sarkar",
+    "nick_name": "Soumya",
+    "player_rule": "Middle-order batsman",
+    "img": "https://p.imgci.com/db/PICTURES/CMS/303100/303160.jpg",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm medium-fast",
+    "slary": 29000
+    },
+	{
+    "id": 20,
+    "name": "Taskin Ahmed",
+    "nick_name": "Tazin",
+    "player_rule": "Bowler",
+    "img": "https://p.imgci.com/db/PICTURES/CMS/303100/303169.jpg",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm fast",
+    "slary": 29000
+    },
+	{
+    "id": 21,
+    "name": "Mohammed Abul Hasan",
+    "nick_name": "Raju",
+    "player_rule": "Bowler",
+    "img": "http://p.imgci.com/db/PICTURES/CMS/302900/302969.jpg",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm medium-fast",
+    "slary": 26000
+    },
+	{
+    "id": 22,
+    "name": "Imrul Kayes",
+    "nick_name": "",
+    "player_rule": "Opening batsman",
+    "img": "https://p.imgci.com/db/PICTURES/CMS/263500/263597.jpg",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Slow left-arm orthodox",
+    "slary": 24000
+    },
+	{
+    "id": 23,
+    "name": "Mohammad Mahmudullah",
+    "nick_name": "Riyad",
+    "player_rule": "Allrounder",
+    "img": "https://p.imgci.com/db/PICTURES/CMS/263500/263581.jpg",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak",
+    "slary": 32000
+    },
+	{
+    "id": 24,
+    "name": "Mohammad Naim Sheikh",
+    "nick_name": "Naim",
+    "player_rule": "Opening batsman",
+    "img": "https://p.imgci.com/db/PICTURES/CMS/303200/303235.jpg",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "",
+    "slary": 30000
+    },
+	{
+    "id": 25,
+    "name": "Mohammad Mushfiqur Rahim",
+    "nick_name": "Mushfiqur",
+    "player_rule": "Wicketkeeper batsman",
+    "img": "https://p.imgci.com/db/PICTURES/CMS/303100/303148.jpg",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "",
+    "slary": 29000
+    },
+	{
+    "id": 26,
+    "name": "Mohammad Nazmul Islam",
+    "nick_name": "Apu",
+    "player_rule": "Bowler",
+    "img": "https://p.imgci.com/db/PICTURES/CMS/303100/303152.jpg",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Slow left-arm orthodox",
+    "slary": 26000
+    },
+	{
+    "id": 27,
+    "name": "Taijul Islam",
+    "nick_name": "Taijul",
+    "player_rule": "Bowler",
+    "img": "https://p.imgci.com/db/PICTURES/CMS/303100/303164.jpg",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Slow left-arm orthodox",
+    "slary": 27000
+    },
+	{
+    "id": 28,
+    "name": "Shafiul Islam",
+    "nick_name": "Shafiul",
+    "player_rule": "Bowler",
+    "img": "https://p.imgci.com/db/PICTURES/CMS/263500/263591.jpg",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast-medium",
+    "slary": 28000
+    },
+	{
+    "id": 29,
+    "name": "Mohammad Zakir Hasan",
+    "nick_name": "Zakir",
+    "player_rule": "Wicketkeeper batsman",
+    "img": "https://p.imgci.com/db/PICTURES/CMS/179500/179575.1.jpg",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "",
+    "slary": 22000
+    }
+	
+	
+]
